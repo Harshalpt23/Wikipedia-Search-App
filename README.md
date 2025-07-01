@@ -13,5 +13,5 @@ Developed custom wikipedia search application where user can search and view cur
 ● When a user clicks on a particular result, opens the website in a new tab by using the target attribute of the anchor tag in HTML.
 
 # Live Demo:
- uploading soon...
+ [(https://harshalpt23.github.io/Wikipedia-Search-App/)](https://harshalpt23.github.io/Wikipedia-Search-App/)
  
