@@ -1,10 +1,10 @@
 # Wikipedia Search Application
 
-## Technologies used : 
-HTML, CSS, JS, REST API Calls, Bootstrap 
-
 # Project Description:
 Developed custom wikipedia search application where user can search and view curated results and can see detailed explanation in wikipedia by clicking on the specifi c result 
+
+## Technologies used : 
+HTML, CSS, JS, REST API Calls, Bootstrap 
 
 # Features
 - Displayed list of search results with HTML list elements with hyperlink as urls.
