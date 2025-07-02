@@ -12,6 +12,6 @@ HTML, CSS, JS, REST API Calls, Bootstrap
 - Fetched search results from server asynchronously using fetch GET HTTP API call. 
 - When a user clicks on a particular result, opens the website in a new tab by using the target attribute of the anchor tag in HTML.
 
-## Live Demo:
+## Live Demo Link:
  [(https://harshalpt23.github.io/Wikipedia-Search-App/)](https://harshalpt23.github.io/Wikipedia-Search-App/)
  
